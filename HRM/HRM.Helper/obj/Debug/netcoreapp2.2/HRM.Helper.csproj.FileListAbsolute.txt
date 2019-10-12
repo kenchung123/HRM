@@ -1,0 +1,9 @@
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Helper/bin/Debug/netcoreapp2.2/HRM.Helper.deps.json
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Helper/bin/Debug/netcoreapp2.2/HRM.Helper.dll
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Helper/bin/Debug/netcoreapp2.2/HRM.Helper.pdb
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Helper/obj/Debug/netcoreapp2.2/HRM.Helper.csprojAssemblyReference.cache
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Helper/obj/Debug/netcoreapp2.2/HRM.Helper.csproj.CoreCompileInputs.cache
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Helper/obj/Debug/netcoreapp2.2/HRM.Helper.AssemblyInfoInputs.cache
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Helper/obj/Debug/netcoreapp2.2/HRM.Helper.AssemblyInfo.cs
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Helper/obj/Debug/netcoreapp2.2/HRM.Helper.dll
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Helper/obj/Debug/netcoreapp2.2/HRM.Helper.pdb

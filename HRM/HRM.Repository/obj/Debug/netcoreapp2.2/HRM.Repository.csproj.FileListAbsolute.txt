@@ -1,0 +1,16 @@
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Repository/bin/Debug/netcoreapp2.2/HRM.Repository.deps.json
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Repository/bin/Debug/netcoreapp2.2/HRM.Repository.dll
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Repository/bin/Debug/netcoreapp2.2/HRM.Repository.pdb
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Repository/bin/Debug/netcoreapp2.2/HRM.Helper.dll
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Repository/bin/Debug/netcoreapp2.2/HRM.Model.dll
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Repository/bin/Debug/netcoreapp2.2/HRM.UnitOfWork.dll
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Repository/bin/Debug/netcoreapp2.2/HRM.Helper.pdb
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Repository/bin/Debug/netcoreapp2.2/HRM.Model.pdb
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Repository/bin/Debug/netcoreapp2.2/HRM.UnitOfWork.pdb
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Repository/obj/Debug/netcoreapp2.2/HRM.Repository.csprojAssemblyReference.cache
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Repository/obj/Debug/netcoreapp2.2/HRM.Repository.csproj.CoreCompileInputs.cache
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Repository/obj/Debug/netcoreapp2.2/HRM.Repository.AssemblyInfoInputs.cache
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Repository/obj/Debug/netcoreapp2.2/HRM.Repository.AssemblyInfo.cs
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Repository/obj/Debug/netcoreapp2.2/HRM.Repository.csproj.CopyComplete
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Repository/obj/Debug/netcoreapp2.2/HRM.Repository.dll
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Repository/obj/Debug/netcoreapp2.2/HRM.Repository.pdb

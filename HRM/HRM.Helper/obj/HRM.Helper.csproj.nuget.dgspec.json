@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Helper/HRM.Helper.csproj": {}
+  },
+  "projects": {
+    "/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Helper/HRM.Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Helper/HRM.Helper.csproj",
+        "projectName": "HRM.Helper",
+        "projectPath": "/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Helper/HRM.Helper.csproj",
+        "packagesPath": "/home/kenchung/.nuget/packages/",
+        "outputPath": "/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Helper/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/kenchung/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[1.0.19249.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3-beta1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

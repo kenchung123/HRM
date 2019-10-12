@@ -1,0 +1,11 @@
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Filters/bin/Debug/netcoreapp2.2/HRM.Filters.deps.json
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Filters/bin/Debug/netcoreapp2.2/HRM.Filters.runtimeconfig.json
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Filters/bin/Debug/netcoreapp2.2/HRM.Filters.runtimeconfig.dev.json
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Filters/bin/Debug/netcoreapp2.2/HRM.Filters.dll
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Filters/bin/Debug/netcoreapp2.2/HRM.Filters.pdb
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Filters/obj/Debug/netcoreapp2.2/HRM.Filters.csprojAssemblyReference.cache
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Filters/obj/Debug/netcoreapp2.2/HRM.Filters.csproj.CoreCompileInputs.cache
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Filters/obj/Debug/netcoreapp2.2/HRM.Filters.AssemblyInfoInputs.cache
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Filters/obj/Debug/netcoreapp2.2/HRM.Filters.AssemblyInfo.cs
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Filters/obj/Debug/netcoreapp2.2/HRM.Filters.dll
+/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Filters/obj/Debug/netcoreapp2.2/HRM.Filters.pdb

@@ -1,0 +1,190 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "365ddc4672c086205b08dd453ae024b431195c1d"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "HRM.Filters/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "8.5.0-preview5",
+          "FluentValidation.AspNetCore": "8.5.0-preview5",
+          "FluentValidation.WebApi": "8.4.0",
+          "Microsoft.EntityFrameworkCore": "2.2.6"
+        },
+        "runtime": {
+          "HRM.Filters.dll": {}
+        }
+      },
+      "FluentValidation/8.5.0-preview5": {
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.5.0.0"
+          }
+        }
+      },
+      "FluentValidation.AspNetCore/8.5.0-preview5": {
+        "dependencies": {
+          "FluentValidation": "8.5.0-preview5",
+          "FluentValidation.DependencyInjectionExtensions": "8.5.0-preview5"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.AspNetCore.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.5.0.0"
+          }
+        }
+      },
+      "FluentValidation.DependencyInjectionExtensions/8.5.0-preview5": {
+        "dependencies": {
+          "FluentValidation": "8.5.0-preview5"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.5.0.0"
+          }
+        }
+      },
+      "FluentValidation.WebApi/8.4.0": {
+        "runtime": {
+          "lib/net45/FluentValidation.WebApi.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.4.0.0"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore/2.2.6": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Abstractions": "2.2.6",
+          "Microsoft.EntityFrameworkCore.Analyzers": "2.2.6",
+          "Remotion.Linq": "2.2.0",
+          "System.Collections.Immutable": "1.5.0",
+          "System.Interactive.Async": "3.2.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.dll": {
+            "assemblyVersion": "2.2.6.0",
+            "fileVersion": "2.2.6.19169"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Abstractions/2.2.6": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
+            "assemblyVersion": "2.2.6.0",
+            "fileVersion": "2.2.6.19169"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Analyzers/2.2.6": {},
+      "Remotion.Linq/2.2.0": {
+        "dependencies": {
+          "System.Linq.Queryable": "4.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Remotion.Linq.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.30000"
+          }
+        }
+      },
+      "System.Collections.Immutable/1.5.0": {},
+      "System.Interactive.Async/3.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Interactive.Async.dll": {
+            "assemblyVersion": "3.2.0.0",
+            "fileVersion": "3.2.0.702"
+          }
+        }
+      },
+      "System.Linq.Queryable/4.0.1": {}
+    }
+  },
+  "libraries": {
+    "HRM.Filters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentValidation/8.5.0-preview5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LzwwtnyaLgK+a6BpzPnNi6lErTB/EtLJCNGD50K97WlMA77XisOvOlNNIWN6G7OMZf6P32E9RxCp6xG9mekM6Q==",
+      "path": "fluentvalidation/8.5.0-preview5",
+      "hashPath": "fluentvalidation.8.5.0-preview5.nupkg.sha512"
+    },
+    "FluentValidation.AspNetCore/8.5.0-preview5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kAfawFSAQ+dWQsPzzSHLBF8y3yjDd70x45g4ifx7O4nl6vhbv7yhj/NpMPE5ZAutfbYOgguPZHgtepokcC9Z0w==",
+      "path": "fluentvalidation.aspnetcore/8.5.0-preview5",
+      "hashPath": "fluentvalidation.aspnetcore.8.5.0-preview5.nupkg.sha512"
+    },
+    "FluentValidation.DependencyInjectionExtensions/8.5.0-preview5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FKiYcf85XUWdqGQJ3gyXYsV3vALdeXyCn8JBDVSPSueyC0YVeii0EUmfxqfDbn/XejnJkC5ljrcXT8cKvYD++A==",
+      "path": "fluentvalidation.dependencyinjectionextensions/8.5.0-preview5",
+      "hashPath": "fluentvalidation.dependencyinjectionextensions.8.5.0-preview5.nupkg.sha512"
+    },
+    "FluentValidation.WebApi/8.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ip927/oGlOJ22Rf442w6Dxs5Bjhw9fQRhSHdzy0A1P78mYas0ZcqzpqUoa9sXDnUlrUk+Ux6Q9xVSbW8CjB1wQ==",
+      "path": "fluentvalidation.webapi/8.4.0",
+      "hashPath": "fluentvalidation.webapi.8.4.0.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore/2.2.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7cLwWblCIjpC200r7SPg3kjESJDNRfP4klvLoFgt29hQBhfH0blpIYsYhCHI9J8GFGkdCxmRAWMb4DmtKXiUWg==",
+      "path": "microsoft.entityframeworkcore/2.2.6",
+      "hashPath": "microsoft.entityframeworkcore.2.2.6.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Abstractions/2.2.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CcsuF1dZlMBAHRT5hqQ5ifLcPYzYFqVtfTBS0yiMH+2GbEkK9KQxjnVxg8YmcD1uCB6ju2fNEE93Mjuo12vgzA==",
+      "path": "microsoft.entityframeworkcore.abstractions/2.2.6",
+      "hashPath": "microsoft.entityframeworkcore.abstractions.2.2.6.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Analyzers/2.2.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NIkxHROzflTpujsOf9Tk3prKoutLCH5pC4mh9TFx9PD6Z6tLCFiO2u11RWGeWE3yyyh39D5TP2nmscsaZ6s7hA==",
+      "path": "microsoft.entityframeworkcore.analyzers/2.2.6",
+      "hashPath": "microsoft.entityframeworkcore.analyzers.2.2.6.nupkg.sha512"
+    },
+    "Remotion.Linq/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-twDAH8dAXXCAf3sRv1Tf94u66eEHvgU75hfn1nn2v4fSWXD50XoDOAk8WpSrbViNuMkB4kN1ElnOGm1c519IHg==",
+      "path": "remotion.linq/2.2.0",
+      "hashPath": "remotion.linq.2.2.0.nupkg.sha512"
+    },
+    "System.Collections.Immutable/1.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T5XGQlcHhEO75Qx38GGCUDPdk4n/7yrRmTgy4yczzJV8alPHaxPU55TBC2UFrkQ42bu34sZPfK0dU+nWZUOEJA==",
+      "path": "system.collections.immutable/1.5.0",
+      "hashPath": "system.collections.immutable.1.5.0.nupkg.sha512"
+    },
+    "System.Interactive.Async/3.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T3nigy9yShklMyVu7I2TvlVMRy2vUn9oQeBaRy0KZcOptyy+rUbekYaXxoa3s0h2tWT3UVtzrGkQC89CBbCtlg==",
+      "path": "system.interactive.async/3.2.0",
+      "hashPath": "system.interactive.async.3.2.0.nupkg.sha512"
+    },
+    "System.Linq.Queryable/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
+      "path": "system.linq.queryable/4.0.1",
+      "hashPath": "system.linq.queryable.4.0.1.nupkg.sha512"
+    }
+  }
+}

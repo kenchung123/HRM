@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.1/system/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_HRM.-27475458.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="HRM.Api" t="IncludeRecursive">
+        <e p="Controllers" t="Include">
+          <e p="EmployeeController.cs" t="Include" />
+          <e p="EmployeeShiftController.cs" t="Include" />
+          <e p="FactoryController.cs" t="Include" />
+          <e p="InformationController.cs" t="Include" />
+          <e p="LoginController.cs" t="Include" />
+          <e p="PositionController.cs" t="Include" />
+          <e p="Request" t="Include">
+            <e p="ApproveTimeOffController.cs" t="Include" />
+            <e p="ChangeShiftController.cs" t="Include" />
+            <e p="RequestTypeController.cs" t="Include" />
+            <e p="TimeOffController.cs" t="Include" />
+            <e p="TransferWorkController.cs" t="Include" />
+          </e>
+          <e p="ShiftController.cs" t="Include" />
+          <e p="UnitController.cs" t="Include" />
+          <e p="WorkPointController.cs" t="Include" />
+        </e>
+        <e p="HRM.Api.csproj" t="IncludeRecursive" />
+        <e p="Logs" t="Include">
+          <e p="mylog-20190910.txt" t="Include" />
+          <e p="mylog-20190911.txt" t="Include" />
+          <e p="mylog-20190912.txt" t="Include" />
+          <e p="mylog-20190916.txt" t="Include" />
+          <e p="mylog-20190917.txt" t="Include" />
+          <e p="mylog-20190919.txt" t="Include" />
+          <e p="mylog-20190920.txt" t="Include" />
+          <e p="mylog-20190923.txt" t="Include" />
+          <e p="mylog-20190924.txt" t="Include" />
+          <e p="mylog-20190927.txt" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="nlog.config" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="HRM.Api.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HRM.Filters" t="IncludeRecursive">
+        <e p="ApiValidationFilterAttribute.cs" t="Include" />
+        <e p="HRM.Filters.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="HRM.Filters.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HRM.Helper" t="IncludeRecursive">
+        <e p="HRM.Helper.csproj" t="IncludeRecursive" />
+        <e p="Ultilities.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="HRM.Helper.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HRM.Model" t="IncludeRecursive">
+        <e p="Entities" t="Include">
+          <e p="BaseEntity.cs" t="Include" />
+          <e p="EmployeeShift.cs" t="Include" />
+          <e p="Employees" t="Include">
+            <e p="Employee.cs" t="Include" />
+          </e>
+          <e p="Factory" t="Include">
+            <e p="Factory.cs" t="Include" />
+          </e>
+          <e p="Position" t="Include">
+            <e p="Position.cs" t="Include" />
+          </e>
+          <e p="Request" t="Include">
+            <e p="ApproveDayOff.cs" t="Include" />
+            <e p="ChangeShift.cs" t="Include" />
+            <e p="RequestType.cs" t="Include" />
+            <e p="TimeOff.cs" t="Include" />
+            <e p="TransferWork.cs" t="Include" />
+          </e>
+          <e p="Shifts" t="Include">
+            <e p="Shift.cs" t="Include" />
+          </e>
+          <e p="Unit" t="Include">
+            <e p="Unit.cs" t="Include" />
+          </e>
+        </e>
+        <e p="HRM.Model.csproj" t="IncludeRecursive" />
+        <e p="HRMDBContext.cs" t="Include" />
+        <e p="MapProfile.cs" t="Include" />
+        <e p="Migrations" t="Include">
+          <e p="20190923161452_AddNewEmployee.cs" t="Include" />
+          <e p="20190924034930_AddNewEmployee2.cs" t="Include" />
+          <e p="20190927041450_addNewProjectMerge.Designer.cs" t="Include" />
+          <e p="20190927041450_addNewProjectMerge.cs" t="Include" />
+          <e p="20190927043743_updateMerge.Designer.cs" t="Include" />
+          <e p="20190927043743_updateMerge.cs" t="Include" />
+          <e p="HRMDBContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="ViewModel" t="Include">
+          <e p="EmployeeShiftViewModel.cs" t="Include" />
+          <e p="Employees" t="Include">
+            <e p="EmployeeViewModel.cs" t="Include" />
+            <e p="InfomationViewModel.cs" t="Include" />
+          </e>
+          <e p="Factory" t="Include">
+            <e p="FactoryViewModels.cs" t="Include" />
+          </e>
+          <e p="Position" t="Include">
+            <e p="PositionViewModel.cs" t="Include" />
+          </e>
+          <e p="Request" t="Include">
+            <e p="ApproveDayOffViewModel.cs" t="Include" />
+            <e p="ChangeShiftViewModel.cs" t="Include" />
+            <e p="RequestTypeViewModel.cs" t="Include" />
+            <e p="TimeOffViewModel.cs" t="Include" />
+            <e p="TransferWorkViewModel.cs" t="Include" />
+          </e>
+          <e p="Shifts" t="Include">
+            <e p="ShiftViewModel.cs" t="Include" />
+          </e>
+          <e p="Unit" t="Include">
+            <e p="UnitViewModels.cs" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="HRM.Model.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HRM.Repository" t="IncludeRecursive">
+        <e p="Extension" t="Include">
+          <e p="RepositoryCollection.cs" t="Include" />
+        </e>
+        <e p="HRM.Repository.csproj" t="IncludeRecursive" />
+        <e p="Repository" t="Include">
+          <e p="EmployeeShift" t="Include">
+            <e p="EmployeeShiftRepository.cs" t="Include" />
+          </e>
+          <e p="Employees" t="Include">
+            <e p="EmployeeReponsitory.cs" t="Include" />
+          </e>
+          <e p="Factory" t="Include">
+            <e p="FactoryRepository.cs" t="Include" />
+          </e>
+          <e p="Position" t="Include">
+            <e p="PositionRepository.cs" t="Include" />
+          </e>
+          <e p="Request" t="Include">
+            <e p="ApproveTimeOffRepository.cs" t="Include" />
+            <e p="ChangeShiftRepository.cs" t="Include" />
+            <e p="RequestTypeRepository.cs" t="Include" />
+            <e p="TimeOffReponsitory.cs" t="Include" />
+            <e p="TransferWorkRepository.cs" t="Include" />
+          </e>
+          <e p="Shifts" t="Include">
+            <e p="ShiftReponsitory.cs" t="Include" />
+          </e>
+          <e p="Unit" t="Include">
+            <e p="UnitRepository.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Shared" t="Include">
+          <e p="EmployeeShift" t="Include">
+            <e p="IEmployeeShiftRepository.cs" t="Include" />
+          </e>
+          <e p="Employees" t="Include">
+            <e p="IEmployeeReponsotory.cs" t="Include" />
+          </e>
+          <e p="Factory" t="Include">
+            <e p="IFactoryRepository.cs" t="Include" />
+          </e>
+          <e p="Position" t="Include">
+            <e p="IPositionRepository.cs" t="Include" />
+          </e>
+          <e p="Request" t="Include">
+            <e p="IApproveTimeOffRepository.cs" t="Include" />
+            <e p="IChangeShiftRepository.cs" t="Include" />
+            <e p="IRequestTypeRepository.cs" t="Include" />
+            <e p="ITimeOffReponsitory.cs" t="Include" />
+            <e p="ITransferWorkRepository.cs" t="Include" />
+          </e>
+          <e p="Shifts" t="Include">
+            <e p="IShiftReponsitory.cs" t="Include" />
+          </e>
+          <e p="Unit" t="Include">
+            <e p="IUnitRepository.cs" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="HRM.Repository.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HRM.Service" t="IncludeRecursive">
+        <e p="Collections" t="Include">
+          <e p="IServiceBase.cs" t="Include" />
+          <e p="ServiceBase.cs" t="Include" />
+        </e>
+        <e p="Extension" t="Include">
+          <e p="ServicesCollection.cs" t="Include" />
+        </e>
+        <e p="HRM.Service.csproj" t="IncludeRecursive" />
+        <e p="Implements" t="Include">
+          <e p="EmployeeShift" t="Include">
+            <e p="EmployeeShiftService.cs" t="Include" />
+          </e>
+          <e p="Employees" t="Include">
+            <e p="EmployeeService.cs" t="Include" />
+          </e>
+          <e p="Factory" t="Include">
+            <e p="FactoryService.cs" t="Include" />
+          </e>
+          <e p="Position" t="Include">
+            <e p="PositionService.cs" t="Include" />
+          </e>
+          <e p="Requests" t="Include">
+            <e p="ApproveTimeOffService.cs" t="Include" />
+            <e p="ChangeShiftService.cs" t="Include" />
+            <e p="RequestTypeService.cs" t="Include" />
+            <e p="TimeOffService.cs" t="Include" />
+            <e p="TransferWorkService.cs" t="Include" />
+          </e>
+          <e p="Shift" t="Include">
+            <e p="ShiftService.cs" t="Include" />
+          </e>
+          <e p="Unit" t="Include">
+            <e p="UnitService.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Shared" t="Include">
+          <e p="EmployeeShift" t="Include">
+            <e p="IEmployeeShiftService.cs" t="Include" />
+          </e>
+          <e p="Employees" t="Include">
+            <e p="IEmployeeService.cs" t="Include" />
+          </e>
+          <e p="Factory" t="Include">
+            <e p="IFactoryService.cs" t="Include" />
+          </e>
+          <e p="Position" t="Include">
+            <e p="IPositionService.cs" t="Include" />
+          </e>
+          <e p="Requests" t="Include">
+            <e p="IApproveTimeOffService.cs" t="Include" />
+            <e p="IChangeShiftService.cs" t="Include" />
+            <e p="IRequestTypeService.cs" t="Include" />
+            <e p="ITimeOffService.cs" t="Include" />
+            <e p="ITransferWorkService.cs" t="Include" />
+          </e>
+          <e p="Shift" t="Include">
+            <e p="IShiftService.cs" t="Include" />
+          </e>
+          <e p="Unit" t="Include">
+            <e p="IUnitService.cs" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="HRM.Service.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HRM.UnitOfWork" t="IncludeRecursive">
+        <e p="Collections" t="Include">
+          <e p="IEnumerablePagedListExtensions.cs" t="Include" />
+          <e p="IPagedList.cs" t="Include" />
+          <e p="IQueryablePageListExtensions.cs" t="Include" />
+          <e p="PagedList.cs" t="Include" />
+        </e>
+        <e p="HRM.UnitOfWork.csproj" t="IncludeRecursive" />
+        <e p="Repositories" t="Include">
+          <e p="Repository.cs" t="Include" />
+          <e p="UnitOfWork.cs" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="IRepository.cs" t="Include" />
+          <e p="IRepositoryFactory.cs" t="Include" />
+          <e p="IUnitOfWork.cs" t="Include" />
+          <e p="IUnitOfWorkTContext.cs" t="Include" />
+          <e p="UnitOfWorkServiceCollectionExtensions.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="HRM.UnitOfWork.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HRM.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

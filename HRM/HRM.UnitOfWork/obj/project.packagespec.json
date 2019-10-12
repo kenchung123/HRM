@@ -1,0 +1,55 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.UnitOfWork/HRM.UnitOfWork.csproj",
+    "projectName": "HRM.UnitOfWork",
+    "projectPath": "/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.UnitOfWork/HRM.UnitOfWork.csproj",
+    "outputPath": "/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.UnitOfWork/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Model/HRM.Model.csproj": {
+            "projectPath": "/home/kenchung/Gitkraken/14092019/HRM/HRM/HRM.Model/HRM.Model.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[2.2.6, )"
+        },
+        "Microsoft.EntityFrameworkCore.Relational": {
+          "target": "Package",
+          "version": "[2.2.6, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
